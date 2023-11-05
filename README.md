@@ -17,7 +17,7 @@ The audio files for the piano were sourced from the [MIDI.js Soundfonts reposito
 
 ## Usage
 
-You can try out the JS Piano live by [clicking here](#link-to-your-live-demo).
+You can try out the JS Piano live by [clicking here](https://n1tr0-afk.github.io/js_piano/).
 
 ## Getting Started
 
