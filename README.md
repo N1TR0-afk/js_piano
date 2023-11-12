@@ -26,14 +26,6 @@ If you want to run the project locally or make improvements, follow these steps:
 1. Clone this repository.
 2. Open the `index.html` file in your browser.
 
-## Contributions
-
-Contributions, issues, and feature requests are welcome. Feel free to open an issue or create a pull request to collaborate on this project.
-
 ## License
 
 This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-Enjoy making music with JS Piano! 🎹
